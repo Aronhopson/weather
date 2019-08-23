@@ -1,5 +1,5 @@
 console.log("oh this is client page")
-
+console.log("git bash")
     
 
 //selecting the document inside index, grabbing by name
